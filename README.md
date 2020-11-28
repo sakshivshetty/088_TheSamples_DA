@@ -12,4 +12,4 @@
 
 NOTE: 
 * No modifications are required to be made. This notebook includes our EDA and models. Comments have been added appropriately for evaluation.
-* Our final report, plagiarism check report and video have been submitted separately in the form. This Git repository contains our dataset, code (.ipynb), report and this readme file.
+* Our final report, plagiarism check report and video have been submitted separately in the form. This Git repository contains our dataset, code (.ipynb), report, Pandas profiling output and this readme file.

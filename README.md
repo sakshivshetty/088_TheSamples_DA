@@ -8,7 +8,7 @@
 
 * Instructions to run our code:
 	* Download 'SuicideStats.csv' and '088_TheSamples_Code.ipynb'
-	* Run '088_TheSamples_Code.ipynb' as is
+	* Run '088_TheSamples_Code.ipynb' as is, with both files in the same directory.
 
 NOTE: 
 * No modifications are required to be made. This notebook includes our EDA and models. Comments have been added appropriately for evaluation.
